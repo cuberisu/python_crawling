@@ -1,3 +1,5 @@
+# 네이버 VIEW 검색 크롤링
+
 from bs4 import BeautifulSoup
 import requests
 
